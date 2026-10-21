@@ -4,7 +4,7 @@ int edad = int.Parse(input);
 
 if (edad < 18)
 {
-    Console.WriteLine("Aun no puede votar");
+    Console.WriteLine("Aun no puedes votar");
 }
 else
 {
