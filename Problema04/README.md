@@ -1,13 +1,8 @@
-# Problema04 Alerta de bateria 
+# Problema 04. Alerta de batería
 
-**Estructura Elegida**
-(if-else)
+**Estructura elegida:** if simple
 
-**Justificacion**
-Este programa se hizo así para capturar el porcentaje de batería ingresado, convertirlo a número entero y evaluar mediante una condición (if-else) si es menor al 15% para mostrar una alerta de batería baja o el estado normal.
+**Justificación:** Requiere ejecutar una acción condicional (alerta) si se cumple el umbral, sin rama alternativa.
 
-**Evidencia**
-![Salida](./Problema04/Evidencias/Problema4.png)
-
-
-```
+**Evidencia:**
+![Salida](./Evidencias/Problema4.png)
