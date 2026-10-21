@@ -1,13 +1,8 @@
-# Problema 05 El mayor de dos numeros 
+# Problema 05. El mayor de dos números
 
-**Estructura Elegida**
-(operador ternario)
+**Estructura elegida:** Operador ternario (? :)
 
-**Justificacion**
-Este programa se hizo así para capturar dos números enteros y utilizar el operador ternario (? :) como una alternativa compacta al if-else para comparar ambos valores y mostrar cuál es el mayor.
+**Justificación:** Permite realizar una asignación condicional compacta en una sola línea.
 
-**Evidencia**
-![Salida](./Problema05/Evidencias/Problema5.png)
-
-
-```
+**Evidencia:**
+![Salida](./Evidencias/Problema5.png)
