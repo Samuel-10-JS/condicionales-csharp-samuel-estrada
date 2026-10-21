@@ -2,7 +2,7 @@
 
 **Estructura elegida:** Operador ternario (? :)
 
-**Justificación:** Permite asignar el texto 'Aprobado' o 'Reprobado' en una sola línea según la nota.
+**Justificación:** Permite asignar el texto 'Aprobado' o 'Reprobado' en una sola linea segun la nota.
 
 **Evidencia:**
 ![Salida](./Evidencias/Problema14.png)
