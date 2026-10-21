@@ -5,4 +5,4 @@
 **Justificación:** Evalúa estados discretos definidos para el semáforo.
 
 **Evidencia:**
-
+![Salida](./Evidencias/Problema11.png)
