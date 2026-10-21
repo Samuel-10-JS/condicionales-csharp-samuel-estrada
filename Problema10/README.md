@@ -1,10 +1,8 @@
-# Problema 08 Vocal o Consonante
+# Problema 10. Analizador de datos recibidos
 
-**Estructura Elegida**
-(if-else)
+**Estructura elegida:** switch con patrones
 
-**Justificacion**
-Este programa se hizo así para evaluar una variable de tipo genérico (object) utilizando coincidencia de patrones (switch con patrones de tipo), permitiendo identificar dinámicamente su tipo de dato real en tiempo de ejecución y ejecutar la acción correspondiente.
+**Justificación:** Permite evaluar y desestructurar tipos de datos dinámicos (object).
 
-**Evidencia**
-![Salida](./Problema10/Evidencias/Problema10.png)
+**Evidencia:**
+![Salida](./Evidencias/Problema10.png)
