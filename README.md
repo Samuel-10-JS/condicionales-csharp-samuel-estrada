@@ -13,3 +13,9 @@
 **Justificación:** Este programa se hizo así para capturar y convertir el peso, validar que sea un valor válido (mayor a cero) y aplicar una tarifa de envío escalonada mediante rangos (if-else if), mostrando el costo final correspondiente.
 **Evidencia:**
 ![Salida](./Problema02/Evidencias/Problema2.png)
+
+# Problema 3. Menú de cajero automático
+
+**Justificacion**
+**Evidencia**
+ 
