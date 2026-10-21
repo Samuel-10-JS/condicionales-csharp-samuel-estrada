@@ -1,13 +1,8 @@
 # Problema 01. Registro electoral
 
-**Estructura elegida:** (if-else)
+**Estructura elegida:**  if-else
 
-**Justificación:** Este programa se hizo así para interactuar con el usuario, convertir su respuesta a número entero y evaluar mediante una condición (if-else) si es mayor de edad para mostrar el mensaje correspondiente sobre su derecho a votar.
+**Justificación:** Permite evaluar una condición booleana simple con dos posibles caminos (votar o no).
+
 **Evidencia:**
-![Salida](./Problema01/Evidencias/Problema1.png)
-
-
-
-
-
-
+![Salida](./Evidencias/Problema1.png)
