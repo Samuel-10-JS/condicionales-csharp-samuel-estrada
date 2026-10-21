@@ -1,13 +1,8 @@
-# Problema 06 Piedra Papel o Tijeras
+# Problema 06. Piedra, papel o tijera
 
-**Estructura Elegida**
-(if-else-if)
+**Estructura elegida:** if-else anidado
 
-**Justificacion**
-Este programa se hizo así para capturar dos números enteros y utilizar el operador ternario (? :) como una alternativa compacta al if-else para comparar ambos valores y mostrar cuál es el mayor.
+**Justificación:** Evalúa múltiples combinaciones de dos variables de texto para determinar ganador o empate.
 
-**Evidencia**
-![Salida](./Problema05/Evidencias/Problema5.png)
-
-
-```
+**Evidencia:**
+![Salida](./Evidencias/image.png)
