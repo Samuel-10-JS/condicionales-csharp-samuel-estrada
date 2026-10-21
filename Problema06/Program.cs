@@ -13,9 +13,9 @@ else if ((j1 == "piedra" && (j2 == "tijera" || j2 == "tijeras")) ||
          (j1 == "papel" && j2 == "piedra") || 
          (j1 == "tijeras" && j2 == "papel"))
 {
-    Console.WriteLine("Jugador 1 es el ganador");
+    Console.WriteLine("J1 es el ganador");
 }
 else
 {
-    Console.WriteLine("Jugador 2 es el ganador");
+    Console.WriteLine("J2 es el ganador");
 }
