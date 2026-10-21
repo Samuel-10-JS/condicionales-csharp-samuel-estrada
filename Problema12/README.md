@@ -5,4 +5,5 @@
 **Justificación:** Requiere validar primero una condición principal (empleo) y luego rangos de ingresos.
 
 **Evidencia:**
+![Salida](./Evidencias/Problema12.png)
 
