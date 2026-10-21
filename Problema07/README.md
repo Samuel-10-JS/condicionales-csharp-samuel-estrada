@@ -1,10 +1,8 @@
-# Problema 07 Signo de un numero
+# Problema 07. Signo de un número
 
-**Estructura Elegida**
-(if-else-if)
+**Estructura elegida:** if-else if-else
 
-**Justificacion**
-Este programa se hizo así para capturar el número entero, evaluar mediante una estructura condicional (if-else if-else) sus tres posibles estados (negativo, positivo o cero) y mostrar el mensaje correspondiente según el valor ingresado.
+**Justificación:** Compara si un número es mayor, menor o igual a cero.
 
-**Evidencia**
-![Salida](./Problema07/Evidencias/Problema7.png)
+**Evidencia:**
+![Salida](./Evidencias/Problema7.png)
