@@ -5,4 +5,4 @@
 **Justificación:** Selecciona entre singular y plural en una sola línea según la cantidad.
 
 **Evidencia:**
-![Salida](./Evidencias/Problema15.png)
+![Salida](./Evidencias/Problema21.png)
