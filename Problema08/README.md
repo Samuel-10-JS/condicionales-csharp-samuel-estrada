@@ -1,10 +1,8 @@
-# Problema 08 Vocal o Consonante
+# Problema 08. Vocal o consonante
 
-**Estructura Elegida**
-(if-else-if)
+**Estructura elegida:** switch
 
-**Justificacion**
-Este programa se hizo así para capturar la entrada y normalizarla a minúsculas, evaluar si es una vocal utilizando operadores lógicos, y validar mediante rangos alfabéticos si se trata de una consonante o de un carácter no válido.
+**Justificación:** Valida caracteres específicos agrupados por vocales o consonantes.
 
-**Evidencia**
-![Salida](./Problema08/Evidencias/Problema8.png)
+**Evidencia:**
+![Salida](./Evidencias/Problema8.png)
