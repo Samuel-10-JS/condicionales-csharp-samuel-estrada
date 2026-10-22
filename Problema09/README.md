@@ -1,10 +1,8 @@
-# Problema 08 Vocal o Consonante
+# Problema 09. Año bisiesto
 
-**Estructura Elegida**
-(if-else)
+**Estructura elegida:** if con operadores lógicos
 
-**Justificacion**
-Este programa se hizo así para capturar el año ingresado y aplicar la regla matemática oficial de los años bisiestos (divisible por 4 y no por 100, o divisible por 400) mediante una estructura condicional (if-else) para mostrar el resultado.
+**Justificación:** Agrupa condiciones matemáticas complejas de divisibilidad en una sola expresión booleana.
 
-**Evidencia**
-![Salida](./Problema09/Evidencias/Problema9.png)
+**Evidencia:**
+![Salida](./Evidencias/Problema9.png)
